@@ -7,10 +7,12 @@
 - PostgreSQL
 
 ## 🚀 APIs Implemented
-1. **POST /api/forms/wheel-specifications**  
-   → Create a new wheel specification record  
-2. **GET /api/forms/wheel-specifications**  
-   → Retrieve all records (supports optional filtering via query param)
+✔️ GitHub Repo: https://github.com/King-Priyanshu/kpa-backend-assignment
+
+✔️ Demo Video: https://drive.google.com/file/d/18ycLGTzkbHORmZ0N4hY9aKk4HCe91sM0/view
+
+✔️ Postman Collection: https://drive.google.com/file/d/1gfC28nMYfEdMNvWWAOMiGvH7o2QWNQKR/view
+
 
 ## 🛠️ Setup Instructions
 1. Create and activate virtual environment:
